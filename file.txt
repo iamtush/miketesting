@@ -1,2 +1,0 @@
-Welcome to creating file with command interface
-added second line with vim editor

@@ -1,3 +1,0 @@
-I am second file.
-Added seecond line.
-Third line.
